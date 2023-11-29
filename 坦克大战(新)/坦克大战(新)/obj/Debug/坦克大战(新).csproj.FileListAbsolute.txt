@@ -1,0 +1,10 @@
+D:\Visual Studio的代码\坦克大战(新)\坦克大战(新)\bin\Debug\坦克大战(新).exe.config
+D:\Visual Studio的代码\坦克大战(新)\坦克大战(新)\bin\Debug\坦克大战(新).exe
+D:\Visual Studio的代码\坦克大战(新)\坦克大战(新)\bin\Debug\坦克大战(新).pdb
+D:\Visual Studio的代码\坦克大战(新)\坦克大战(新)\obj\Debug\坦克大战(新).csproj.AssemblyReference.cache
+D:\Visual Studio的代码\坦克大战(新)\坦克大战(新)\obj\Debug\坦克大战_新_.Form1.resources
+D:\Visual Studio的代码\坦克大战(新)\坦克大战(新)\obj\Debug\坦克大战_新_.Properties.Resources.resources
+D:\Visual Studio的代码\坦克大战(新)\坦克大战(新)\obj\Debug\坦克大战(新).csproj.GenerateResource.cache
+D:\Visual Studio的代码\坦克大战(新)\坦克大战(新)\obj\Debug\坦克大战(新).csproj.CoreCompileInputs.cache
+D:\Visual Studio的代码\坦克大战(新)\坦克大战(新)\obj\Debug\坦克大战(新).exe
+D:\Visual Studio的代码\坦克大战(新)\坦克大战(新)\obj\Debug\坦克大战(新).pdb
